@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's mournful elegy for the dissolving the Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38412</idno>
+            <idno type="STC">Wing E3000</idno>
+            <idno type="STC">ESTC R8153</idno>
+            <idno type="EEBO-CITATION">13245021</idno>
+            <idno type="OCLC">ocm 13245021</idno>
+            <idno type="VID">98652</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38412)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98652)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's mournful elegy for the dissolving the Parliament</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. N.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98652:1" rendition="simple:additions"/>
+            <head>ENGLAND's Mournful Elegy FOR The Diſſolving the PARLIAMENT.</head>
+            <lg>
+               <l>ARE all our Hopes thus on a ſudden daſh'd?</l>
+               <l>Our Truſt confounded, and Rejoycings quaſh'd!</l>
+               <l>One blaſt of Air, upon one diſmal day</l>
+               <l>Has blown our JOY, our Parliament away!</l>
+               <l>When the Beaſt's King ſends forth his dreadful Voice:</l>
+               <l>They leave the Wood, affrighted at the noyſe.</l>
+               <l>How fair of late did all the Heavens ſmile?</l>
+               <l>What ſtreams of Joy ran through this gladſom Iſle!</l>
+               <lg>
+                  <l>When now, behold, diſturb'd and clouded Skies,</l>
+                  <l>And Tears of Sorrow trickling from our Eyes,</l>
+                  <l>Follow'd with Tempeſts of Heart-breaking ſighs.</l>
+               </lg>
+               <l>ROME at our Troubles now begins to Laugh,</l>
+               <l>And traiterous Lords do our Confuſion Quaff:</l>
+               <l>The Prince of Hell, by theſe ſad Signs miſtook,</l>
+               <l>Thinks Heaven and Providence has us forſook,</l>
+               <l>And, ſpite of all his cunning, ſhews his Joy,</l>
+               <l>In hopes that, now, he ENGLAND ſhall deſtroy;</l>
+               <l>But we do know, that God has Mercy ſtill;</l>
+               <l>If humbly we ſubmit unto his Will:</l>
+               <l>ROME, may deceived be, and looſe its Aim,</l>
+               <l>And Hell, Confounded be, with Fear and Shame.</l>
+               <lg>
+                  <l>The WOLF the threatned Child, did long to Taſt,</l>
+                  <l>Expecting for the Morſel long did Faſt,</l>
+                  <l>But Mockt and Hungry did return at laſt;</l>
+               </lg>
+               <l>The Mother ſtill did in her Child delight,</l>
+               <l>And with the VVOLF to ſtill't, did it affright.</l>
+               <l>Thus VVolfiſh JESUITES, waiting for their Prey,</l>
+               <l>VVithout it, empty, ſhall be ſent away.</l>
+               <l>Our TEARS of Sorrow, ſhall to Gladneſs turn,</l>
+               <l>And ENGLAND at the laſt, ſhall Ceaſe to Mourn.</l>
+               <l>A Mourner, at the preſent, ſhe appears,</l>
+               <l>And with a Sable Vail, ſhe hides her TEARS:</l>
+               <l>Great is her Grief, yet ſcarcely underſtood;</l>
+               <l>Her Eyes drop TEARS, her Heart a ſhower of BLOOD,</l>
+               <l>For many Woes ſhe now expects to ſee,</l>
+               <l>And doth preſage ſome Fearful Tragedie.</l>
+               <l>Plotters yet live, which ſtill our Head would wound,</l>
+               <l>VVho ſeek us, and our Happineſs to confound:</l>
+               <lg>
+                  <l>VVho ſtill are trying all the means they can,</l>
+                  <l>By ſubtil wayes th' unwary to Trepan:</l>
+                  <l>And whom they cannot reach, they curſe and ban<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <pb facs="tcp:98652:2" rendition="simple:additions"/>
+               <l> The Plots a Deep, whoſe Bottom is not found,</l>
+               <l>VVhich many Fathoms has unto the Ground,</l>
+               <l>So intricate a Lab'rinth few can finde,</l>
+               <l>By what is paſt, what yet remaines behinde.</l>
+               <l>
+                  <hi>England</hi> remembers, and with Grief's diſmaid.</l>
+               <l>At what, long ſince, prophetick <hi>Uſper</hi> ſaid,</l>
+               <l>That <hi>Popery</hi> for a while ſhould hither come,</l>
+               <l>And our Religion ſhould ſubmit to ROME:</l>
+               <l>That once again ſhe ſhould her Altars ſee,</l>
+               <l>Her <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rieſts, her Trinkets and Idolatry.</l>
+               <l>But that at laſt, the breath of <hi>Providence.</hi>
+               </l>
+               <l>Should them diſperſe, and ſuddenly blow hence;</l>
+               <l>That they ſhould all be driven from our Shore,</l>
+               <l>And after that in <hi>England</hi> ſeen no more.</l>
+               <l>Through clouded Eyes <hi>England</hi> beholds the Star</l>
+               <l>That ſeems to threaten Famine Plague and VVar.</l>
+               <l>Armies in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight ſeen in the azure Sky,</l>
+               <l>VVith many a ſtrange and unheard Prodigy,</l>
+               <l>Add to her grief, which trembling ſhe beholds,</l>
+               <l>VVhilſt the Myſterious Riddle none unfolds.</l>
+               <l>VVith Arms a-croſs, ſhe ſat, in Silence huſh'd,</l>
+               <l>Till a ſalt Flood, from her drown'd Eyes new guſh'd;</l>
+               <l>For like a Ship, ſhe at an Anchor lay,</l>
+               <l>Rolling on ſurging Seas within a Bay;</l>
+               <l>'Till on a ſudden, by a Thunder-ſtroke,</l>
+               <l>She loſt her Hold, Anchor and Cable broke,</l>
+               <l>And her great Hopes, her Anchor being quit,</l>
+               <l>Upon diſpairing Rocks ſhe ſeems to ſplit.</l>
+               <l>But God who all things ſees, and rules above,</l>
+               <l>VVho with his Juſtice alwayes mixes Love,</l>
+               <l>Beholds poor <hi>England</hi> in her deep Diſtreſs,</l>
+               <l>And in the midſt of Miſeries her can bleſs.</l>
+               <l>The Hearts of Kings he holdeth in his Hand,</l>
+               <l>And he can them, as other men command;</l>
+               <l>On God above now all our Hopes doth lye,</l>
+               <l>On Him ſhe fixes her ſtill conſtant Eye,</l>
+               <l>Reſolv'd to ſuffer what on her he'l throw,</l>
+               <l>Good Counſel ſhe doth on her Sons beſtow,</l>
+               <lg>
+                  <l>Bids them be bold, but not with Rage to ſwell,</l>
+                  <l>Petition, Pray, and all their Griefs to tell,</l>
+                  <l>To Heaven and their King, but not Rebel.</l>
+               </lg>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON, Printed for S. N.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
